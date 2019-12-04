@@ -2,7 +2,7 @@ general:
   debug: true
   cron: '*/15 * * * *'
 darksky:
-  key: DARKSKY_KEY
+  key: 289134ea2b44f9c3c5f23e8c6de094d0
   units: auto
   language: en
   longitude: 76.851248

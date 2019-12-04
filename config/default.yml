@@ -10,5 +10,5 @@ darksky:
 influxdb:
   host: 134.209.240.215
   database: weather_almaty
-  username:
-password:
+  username: admin
+password: admin

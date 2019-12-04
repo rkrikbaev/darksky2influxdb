@@ -5,10 +5,10 @@ darksky:
   key: DARKSKY_KEY
   units: auto
   language: en
-  longitude: DARKSKY_LONGITUDE
-  latitude: DARKSKY_LATITUDE
+  longitude: 76.851248
+  latitude: 43.232025
 influxdb:
-  host: INFLUXDB_HOST
-  database: INFLUXDB_DATABASE
-  username: INFLUXDB_USERNAME
-password: INFLUXDB_PASSWORD
+  host: 134.209.240.215
+  database: weather_almaty
+  username:
+password:
